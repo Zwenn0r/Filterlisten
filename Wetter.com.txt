@@ -33,3 +33,7 @@ dspx.tv
 tpc.googlesyndication.com
 adclick.g.doubleclick.net
 ad-production-stage.com
+adinfo.amazon.com
+
+#Welt.de
+
