@@ -30,3 +30,5 @@ pbstck.com^$3p
 g.doubleclick.net
 amazon-adsystem.com
 dspx.tv
+tpc.googlesyndication.com
+adclick.g.doubleclick.net
