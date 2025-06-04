@@ -130,3 +130,9 @@ trx.adscale.de
 usersync.gumgum.com
 widgets.outbrain.com
 www.ad-production-stage.com
+safeframe.googlesyndication.com
+www14.smartadserver.com
+x.bidswitch.net
+yt3.ggpht.com
+www.clarity.ms
+www.clicktripz.com
