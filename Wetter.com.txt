@@ -36,4 +36,7 @@ ad-production-stage.com
 adinfo.amazon.com
 
 #Welt.de
+events.onet.pl
+as.welt.de
+kameleoon.eu
 
